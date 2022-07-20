@@ -1,0 +1,31 @@
+body{
+    background: #757e5a;
+}
+
+#campo {
+    background: #6b3699;
+    color: #e5e5e5;
+}
+
+.field {
+    padding-top: 15px;
+    margin-left: 50px;
+}
+
+.text {
+    padding-top: 15px;
+}
+
+.campo2 {
+    background: #6b3699;
+    color: #e5e5e5;
+}
+.campo3 {
+    background: #6b3699;
+    color: #e5e5e5;
+}
+
+.campo4 {
+    background: #6b3699;
+    color: #e5e5e5;
+}
